@@ -1,0 +1,2 @@
+# DeseneGoreMetodOlusturma
+DeseneGoreMetodOlusturma
